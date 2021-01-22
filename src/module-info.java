@@ -1,0 +1,2 @@
+module collectionAPI {
+}
